@@ -1,0 +1,770 @@
+{
+  "status": false,
+  "data": {
+    "pedimentos": [
+      {
+        "id": "1000998",
+        "inicio": {
+          "claveM3": "500",
+          "linea": 1,
+          "tipoMovimiento": "1",
+          "patente": "9999",
+          "pedimento": "1000998",
+          "aduana": "430",
+          "validacion": ""
+        },
+        "datos": {
+          "claveM3": "501",
+          "linea": 2,
+          "patente": "9999",
+          "pedimento": "1000998",
+          "aduana": "430",
+          "tipo": "2",
+          "clave": "RT",
+          "aduanaOperacion": "430",
+          "curpImportadorExportador": "",
+          "rfcImportadorExportador": "GIN990211QLA",
+          "curpAgente": "VICS640916MDFGLL08",
+          "tipoCambio": "19.85320",
+          "flete": "0",
+          "seguros": "0",
+          "embalajes": "0",
+          "incrementales": "0",
+          "usoFuturo": "0",
+          "pesoBruto": "717.357",
+          "transporteSalida": "1",
+          "transporteArribo": "7",
+          "transporteEntradaSalida": "1",
+          "origenDestino": "9",
+          "nombreImportadorExportador": "SEG AUTOMOTIVE MEXICO MANUFACTURING SA DE CV",
+          "calle": "DE LA INDUSTRIA FARMACEUTICA",
+          "numeroInterior": "LOTE 3",
+          "numeroExterior": "NUMERO 5",
+          "codigoPostal": "52004",
+          "municipioCiudad": "CORREDOR INDUSTRIAL TOLUCA LERMA,LERMA",
+          "entidadFederativa": "EM",
+          "paisImportadorExportador": "MEX",
+          "rfcEmisor": "YARJ710906U56",
+          "decrementablesFletes": "0",
+          "decrementablesSeguros": "0",
+          "decrementablesDescarga": "0",
+          "decrementablesOtros": "0"
+        },
+        "transporte": [
+          {
+            "claveM3": "502",
+            "linea": 3,
+            "pedimento": "1000998",
+            "rfcTransportista": "",
+            "curpTransportista": "",
+            "nombreTransportista": "CMACGMMUSSET",
+            "paisTransporte": "MLT",
+            "identificacionTransporte": "CMACGMMUSSET",
+            "totalBultos": "",
+            "domicilioTransportista": ""
+          }
+        ],
+        "cfdi": [
+          {
+            "claveM3": "505",
+            "linea": 4,
+            "numeroPedimento": "1000998",
+            "fechaCfdi": "06072021",
+            "numeroCfdi": "COVE214FTI3Y2",
+            "terminoFacturacion": "FCA",
+            "monedaCfdi": "USD",
+            "valorDolares": "8643.00",
+            "valorMoneda": "8643.00",
+            "paisCfdi": "USA",
+            "entidadFederativa": "",
+            "identificacionFiscal": "383992949",
+            "proveedorComprador": "SEG AUTOMOTIVE NORTH AMERICA LLC",
+            "calle": "NOVI, RESEARCH PARK HAGGERTY ROAD SUITE 420",
+            "numeroInterior": "",
+            "numeroExterior": "27275",
+            "codigoPostal": "483773636",
+            "municipio": "NOVI"
+          }
+        ],
+        "fechas": [
+          {
+            "claveM3": "506",
+            "linea": 5,
+            "numeroPedimento": "1000998",
+            "tipoFecha": "5",
+            "fecha": "07072021"
+          },
+          {
+            "claveM3": "506",
+            "linea": 6,
+            "numeroPedimento": "1000998",
+            "tipoFecha": "2",
+            "fecha": "07072021"
+          }
+        ],
+        "identificadores": [
+          {
+            "claveM3": "507",
+            "linea": 7,
+            "numeroPedimento": "1000998",
+            "claveIdentificador": "OC",
+            "complemento1": "179",
+            "complemento2": "22",
+            "complemento3": ""
+          },
+          {
+            "claveM3": "507",
+            "linea": 8,
+            "numeroPedimento": "1000998",
+            "claveIdentificador": "OC",
+            "complemento1": "3002016",
+            "complemento2": "",
+            "complemento3": ""
+          },
+          {
+            "claveM3": "507",
+            "linea": 9,
+            "numeroPedimento": "1000998",
+            "claveIdentificador": "SU",
+            "complemento1": "2",
+            "complemento2": "",
+            "complemento3": ""
+          }
+        ],
+        "tasas": [
+          {
+            "claveM3": "509",
+            "linea": 10,
+            "numeroPedimento": "1000998",
+            "claveContribucion": "1",
+            "tasaContribucion": "352.00000",
+            "tipoTasa": "4"
+          },
+          {
+            "claveM3": "509",
+            "linea": 11,
+            "numeroPedimento": "1000998",
+            "claveContribucion": "15",
+            "tasaContribucion": "240.00000",
+            "tipoTasa": "2"
+          },
+          {
+            "claveM3": "509",
+            "linea": 12,
+            "numeroPedimento": "1000998",
+            "claveContribucion": "23",
+            "tasaContribucion": "16.00000",
+            "tipoTasa": "1"
+          }
+        ],
+        "contribuciones": [
+          {
+            "claveM3": "510",
+            "linea": 13,
+            "numeroPedimento": "1000998",
+            "claveContribucion": "15",
+            "formaPago": "0",
+            "importePago": "240"
+          },
+          {
+            "claveM3": "510",
+            "linea": 14,
+            "numeroPedimento": "1000998",
+            "claveContribucion": "23",
+            "formaPago": "0",
+            "importePago": "38"
+          },
+          {
+            "claveM3": "510",
+            "linea": 15,
+            "numeroPedimento": "1000998",
+            "claveContribucion": "1",
+            "formaPago": "9",
+            "importePago": "352"
+          }
+        ],
+        "observaciones": [
+          {
+            "claveM3": "511",
+            "linea": 16,
+            "numeroPedimento": "1000998",
+            "secuencia": "1",
+            "observaciones": "PUERTO DESTINO: ANTWERP, BELGICA  DE CONFORMIDAD CON LA RGCE 1.6.15, VIGENTE A ESTA FECHA DECLARAMOS QUE EL IMPUESTO"
+          },
+          {
+            "claveM3": "511",
+            "linea": 17,
+            "numeroPedimento": "1000998",
+            "secuencia": "2",
+            "observaciones": "GENERAL DE IMPORTACION DE INSUMOS NO ORIGINARIOS FUE PAGADO DE CONFORMIDAD CON LA RGCE 1.6.12 VIGENTE A ESTA"
+          },
+          {
+            "claveM3": "511",
+            "linea": 18,
+            "numeroPedimento": "1000998",
+            "secuencia": "3",
+            "observaciones": "FECHA.  ESTA MERCANCIA SERA CONSOLIDADA POR LA AGENCIA DHL GLOBAL FORWARDING - EISEN LOGISTICA S.A DE C.V EN EL"
+          },
+          {
+            "claveM3": "511",
+            "linea": 19,
+            "numeroPedimento": "1000998",
+            "secuencia": "4",
+            "observaciones": "CONTENEDOR NO. APZU4276824 DE MEDIDA: 1X40 DC. SELLO: DHL140727, EN LA TERMINAL D.A. HINOJOSA TERMINAL MULTIUSOS S.A DE"
+          },
+          {
+            "claveM3": "511",
+            "linea": 20,
+            "numeroPedimento": "1000998",
+            "secuencia": "5",
+            "observaciones": "C.V (CR 179) Y SERA EMBARCADA EN LA TERMINAL DE INFRAESTRUCTURA PORTUARIA MEXICANA SA DE CV. (IPM) (CR 22)"
+          }
+        ],
+        "partidas": [
+          {
+            "id": "85115005",
+            "numero": [
+              {
+                "id": "1",
+                "partidas": [
+                  {
+                    "claveM3": "551",
+                    "linea": 21,
+                    "pedimento": "1000998",
+                    "fraccion": "85115005",
+                    "numero": "1",
+                    "subdivision": "03",
+                    "descripcion": "ALTERNADOR",
+                    "precio": "2561.06280",
+                    "valorAduana": "0",
+                    "importePrecio": "171591",
+                    "valorDolares": "8643.00",
+                    "cantidadMercanciaUmc": "67.000",
+                    "medidaComercializacion": "6",
+                    "cantidadMercanciaUmt": "67.000",
+                    "unidadTarifa": "6",
+                    "valorAgregado": "30114",
+                    "vinculacion": "0",
+                    "metodoValoracion": "0",
+                    "codigoProducto": "",
+                    "marca": "",
+                    "modelo": "",
+                    "paisOrigenDestino": "FRA",
+                    "paisVendedorComprador": "USA",
+                    "entidadFederativaOrigen": "",
+                    "entidadFederativaDestino": "",
+                    "entidadComprador": "",
+                    "entidadVendedor": ""
+                  }
+                ],
+                "identificadores": [
+                  {
+                    "claveM3": "554",
+                    "linea": 22,
+                    "pedimento": "1000998",
+                    "fraccion": "85115005",
+                    "numero": "1",
+                    "clave": "PT",
+                    "complemento1": "",
+                    "complemento2": "",
+                    "complemento3": ""
+                  }
+                ],
+                "pagoContribuciones": [
+                  {
+                    "claveM3": "353",
+                    "linea": 23,
+                    "numeroPedimento": "1000998",
+                    "fraccion": "85115005",
+                    "partida": "1",
+                    "valor": "",
+                    "importe": ""
+                  }
+                ],
+                "pagoContribucionesNivelPartida": [
+                  {
+                    "claveM3": "355",
+                    "linea": 24,
+                    "numeroPedimento": "1000998",
+                    "paisDestino": "FRA",
+                    "fraccionArancelaria": "85115005",
+                    "numeroPartida": "1",
+                    "claveContribucion": "16",
+                    "formaPago": "13",
+                    "importePago": "0"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "efirma": {
+          "claveM3": "800",
+          "linea": 25,
+          "pedimento": "1000998",
+          "figura": "1",
+          "efirma": "qSOudMifZsZHlYnrcNTx1xvvZ+qujP03rHWYRXisuWg20//vu1B2S81+nTdVW7GyDNmcVty6CFyOVKXuKgsXRUuSnKHLY3PccDI6jPndkGju0vYKLLDwjj6KHLOTi8LwjbTyonhBrrksBWrUYHzZ8/xECLoHDjXMVJdT9RqJSAAAHhAKSP6F3CkIKppm2qXw404PXm8C4pRmW1aY//YqhOkzvaD0rMq1yr1+vcjGi94tugqHcE7TtLSQ8VpkwYA61L9bV2fT/j28xloF9LISSak7axdETSInBte22BcTTUPOlAiaN/mxcHbBEzk/XeVLWTZ+fR7iwffeTzq+oxtZOA==",
+          "serie": "00001000000502826820"
+        }
+      }
+    ],
+    "fin": {
+      "claveM3": "801",
+      "linea": 26,
+      "nombre": "m9999155.088",
+      "cantidadPedimentos": "1",
+      "cantidadRegistros": "25",
+      "clave": "055"
+    }
+  },
+  "errorMessages": [
+    {
+      "code": "0004",
+      "description": "Error en linea [1]: campo [validacion] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [1]: campo [validacion] con valor [] no posee el min 8"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [1]: campo [validacion] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [2]: campo [curpImportadorExportador] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [2]: campo [curpImportadorExportador] con valor [] no posee el min 18"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [2]: campo [curpImportadorExportador] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [2]: campo [tipoCambio] con valor [19.85320] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [2]: campo [flete] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [2]: campo [seguros] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [2]: campo [embalajes] con valor [0] no posee el min 12"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [2]: campo [embalajes] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [2]: campo [incrementales] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [2]: campo [pesoBruto] con valor [717.357] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [2]: campo [decrementablesFletes] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [2]: campo [decrementablesSeguros] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [2]: campo [decrementablesSeguros] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [2]: campo [decrementablesDescarga] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [2]: campo [decrementablesOtros] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [3]: campo [rfcTransportista] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [3]: campo [rfcTransportista] con valor [] no posee el min 13"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [3]: campo [rfcTransportista] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [3]: campo [curpTransportista] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [3]: campo [curpTransportista] con valor [] no posee el min 18"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [3]: campo [curpTransportista] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [3]: campo [totalBultos] con valor [] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [3]: campo [totalBultos] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [3]: campo [totalBultos] con valor [] no posee el min 5"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [3]: campo [totalBultos] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [3]: campo [domicilioTransportista] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [3]: campo [domicilioTransportista] con valor [] no posee el min 150"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [3]: campo [domicilioTransportista] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [4]: campo [valorDolares] con valor [8643.00] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [4]: campo [valorMoneda] con valor [8643.00] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [4]: campo [entidadFederativa] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [4]: campo [entidadFederativa] con valor [] no posee el min 3"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [4]: campo [entidadFederativa] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [4]: campo [numeroInterior] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [4]: campo [numeroInterior] con valor [] no posee el min 10"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [4]: campo [numeroInterior] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [5]: campo [tipoFecha] con valor [5] no posee el min 2"
+    },
+    {
+      "code": "0006",
+      "description": "Error en linea [5]: campo [tipoFecha] con valor [5] debe existir en el conjunto de valores [01,02,03,05,06,07]"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [6]: campo [tipoFecha] con valor [2] no posee el min 2"
+    },
+    {
+      "code": "0006",
+      "description": "Error en linea [6]: campo [tipoFecha] con valor [2] debe existir en el conjunto de valores [01,02,03,05,06,07]"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [7]: campo [complemento3] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [7]: campo [complemento3] con valor [] no posee el min 40"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [7]: campo [complemento3] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [8]: campo [complemento2] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [8]: campo [complemento2] con valor [] no posee el min 30"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [8]: campo [complemento2] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [8]: campo [complemento3] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [8]: campo [complemento3] con valor [] no posee el min 40"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [8]: campo [complemento3] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [9]: campo [complemento2] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [9]: campo [complemento2] con valor [] no posee el min 30"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [9]: campo [complemento2] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [9]: campo [complemento3] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [9]: campo [complemento3] con valor [] no posee el min 40"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [9]: campo [complemento3] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [10]: campo [tasaContribucion] con valor [352.00000] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [11]: campo [tasaContribucion] con valor [240.00000] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [12]: campo [tasaContribucion] con valor [16.00000] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [13]: campo [formaPago] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [14]: campo [formaPago] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [21]: campo [numero] con valor [1] no posee el min 5"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [21]: campo [precio] con valor [2561.06280] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [21]: campo [valorAduana] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [21]: campo [valorDolares] con valor [8643.00] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [21]: campo [cantidadMercanciaUmc] con valor [67.000] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [21]: campo [medidaComercializacion] con valor [6] no posee el min 2"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [21]: campo [cantidadMercanciaUmt] con valor [67.000] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [21]: campo [metodoValoracion] con valor [0] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [21]: campo [codigoProducto] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [21]: campo [codigoProducto] con valor [] no posee el min 20"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [21]: campo [codigoProducto] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [21]: campo [marca] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [21]: campo [marca] con valor [] no posee el min 80"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [21]: campo [marca] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [21]: campo [modelo] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [21]: campo [modelo] con valor [] no posee el min 80"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [21]: campo [modelo] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [21]: campo [entidadFederativaOrigen] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [21]: campo [entidadFederativaOrigen] con valor [] no posee el min 3"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [21]: campo [entidadFederativaOrigen] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [21]: campo [entidadFederativaDestino] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [21]: campo [entidadFederativaDestino] con valor [] no posee el min 3"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [21]: campo [entidadFederativaDestino] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [21]: campo [entidadComprador] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [21]: campo [entidadComprador] con valor [] no posee el min 3"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [21]: campo [entidadComprador] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [21]: campo [entidadVendedor] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [21]: campo [entidadVendedor] con valor [] no posee el min 3"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [21]: campo [entidadVendedor] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [22]: campo [numero] con valor [1] no posee el min 5"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [22]: campo [complemento1] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [22]: campo [complemento1] con valor [] no posee el min 20"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [22]: campo [complemento1] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [22]: campo [complemento2] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [22]: campo [complemento2] con valor [] no posee el min 50"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [22]: campo [complemento2] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [22]: campo [complemento3] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [22]: campo [complemento3] con valor [] no posee el min 40"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [22]: campo [complemento3] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [23]: campo [valor] con valor [] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [23]: campo [valor] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [23]: campo [valor] con valor [] no posee el min 12"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [23]: campo [valor] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0001",
+      "description": "Error en linea [23]: campo [importe] con valor [] debe ser un tipo de dato number"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [23]: campo [importe] con valor [] no posee el min 1"
+    },
+    {
+      "code": "0005",
+      "description": "Error en linea [23]: campo [importe] con valor [] no posee el min 12"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [23]: campo [importe] con valor [] no debe ser vació o 0"
+    },
+    {
+      "code": "0004",
+      "description": "Error en linea [24]: campo [numeroPartida] con valor [1] no posee el min 5"
+    },
+    {
+      "code": "0003",
+      "description": "Error en linea [24]: campo [importePago] con valor [0] no debe ser vació o 0"
+    }
+  ]
+}
